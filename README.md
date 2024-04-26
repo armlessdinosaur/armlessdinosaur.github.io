@@ -1,1 +1,2 @@
-# armlessdinosaur.github.io
+# GriffinWeb
+Prosty wyświetlacz odjazdów pojazdów komunikacji meijskiej w Szczecinie.
